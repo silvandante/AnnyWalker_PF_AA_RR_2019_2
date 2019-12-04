@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1575485473 source:d:\atividades_analisealgoritmos\approchinggraphcoloringbacktrackingcpp\main.cpp
+	<stdio.h>
+	<stdbool.h>
+	<list>
+	<fstream>
+	<iostream>
+	<cstring>
+	<string>
+	<stdlib.h>
+	<vector>
+	<chrono>
+	<chrono>
+

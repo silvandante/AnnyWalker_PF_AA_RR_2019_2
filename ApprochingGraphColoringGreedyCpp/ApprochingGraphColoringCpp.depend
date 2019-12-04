@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1575486703 source:d:\atividades_analisealgoritmos\approchinggraphcoloringcpp\main.cpp
+	<list>
+	<fstream>
+	<iostream>
+	<cstring>
+	<string>
+	<stdlib.h>
+	<vector>
+	<chrono>
+
